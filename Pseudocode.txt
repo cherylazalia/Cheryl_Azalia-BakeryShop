@@ -5,3 +5,8 @@ PRINT "3. Croissant"
 
 STORE "cart" with string
 ADD "cart" with "menu"[0]
+
+CALL checkout(cart)
+
+WRITE "alamat" with string
+STORE "alamat" with "Surabaya"

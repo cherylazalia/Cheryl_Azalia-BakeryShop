@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QZgptsSMLCKJXurCH-qp" name="Page-1">
-        <mxGraphModel dx="1620" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1319" dy="342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -123,11 +123,29 @@
                 <mxCell id="43" value="Bakery Shop CHAZ menyiapkan pesanan" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="347.75" y="1086" width="167.5" height="61" as="geometry"/>
                 </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="46" target="52">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="46" value="Bakery Shop CHAZ mengirimkan pesanan melalui driver&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-                    <mxGeometry x="347" y="1195" width="169" height="60" as="geometry"/>
+                    <mxGeometry x="344" y="1192" width="175" height="72" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="Menunggu ada driver online" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="134.5" y="933.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="48" target="43">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="374.5" y="1020" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="195" y="1116"/>
+                        </Array>
+                        <mxPoint x="174.75" y="1070" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Pesanan sampai ke pelanggan" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="347.25" y="1321" width="168" height="67" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

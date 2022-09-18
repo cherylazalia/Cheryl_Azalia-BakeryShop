@@ -10,3 +10,8 @@ CALL checkout(cart)
 
 WRITE "alamat" with string
 STORE "alamat" with "Surabaya"
+
+STORE "Jumlah" AS INTEGER WITH VALUE
+STORE "Harga" AS INTEGER WITH VALUE
+STORE "Total" AS INTEGER WITH 0 
+DISPLAY "Total"

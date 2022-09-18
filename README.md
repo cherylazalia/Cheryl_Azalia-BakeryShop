@@ -1,6 +1,6 @@
  # Aplikasi Order Online Bakery Shop CHAZ 
 
- Aplikasi ini dibuat untuk membantu pelanggan yang ingin melakukan order di Bakery Shop CHAZ secara praktis dan efisien dan mempermudah penjualan secara luas
+ Aplikasi ini dibuat untuk membantu penjual dan pelanggan yang ingin melakukan order secara online di Bakery Shop CHAZ agar lebih praktis dan efisien sehingga penjualan dapat ditingkatkan.
 
  ## Isi dari Repository
  - README.md 

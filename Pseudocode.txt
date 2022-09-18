@@ -15,3 +15,7 @@ STORE "Jumlah" AS INTEGER WITH VALUE
 STORE "Harga" AS INTEGER WITH VALUE
 STORE "Total" AS INTEGER WITH 0 
 DISPLAY "Total"
+
+STORE "IsPaid" with pay()
+IF "IsPaid" equal to True THEN
+    STORE "IsConfirm" with True

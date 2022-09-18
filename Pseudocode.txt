@@ -1,0 +1,7 @@
+PRINT "========== MENU BAKERY SHOP CHAZ =========="
+PRINT "1. Doughnut"
+PRINT "2. Cheesecake"
+PRINT "3. Croissant"
+
+STORE "cart" with string
+ADD "cart" with "menu"[0]

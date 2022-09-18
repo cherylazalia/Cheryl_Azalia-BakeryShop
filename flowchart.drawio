@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QZgptsSMLCKJXurCH-qp" name="Page-1">
-        <mxGraphModel dx="1171" dy="244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1620" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -106,6 +106,14 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="37" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="49">
+                    <mxGeometry x="-0.1852" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="37" value="Ada driver online?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="374.5" y="907" width="114" height="113" as="geometry"/>
                 </mxCell>
@@ -117,6 +125,9 @@
                 </mxCell>
                 <mxCell id="46" value="Bakery Shop CHAZ mengirimkan pesanan melalui driver&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="347" y="1195" width="169" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Menunggu ada driver online" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="134.5" y="933.5" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

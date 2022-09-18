@@ -27,8 +27,19 @@
                 <mxCell id="7" value="User melihat daftar menu" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
                     <mxGeometry x="-472" y="317" width="160" height="80" as="geometry"/>
                 </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="20">
+                    <mxGeometry x="-0.6109" relative="1" as="geometry">
+                        <mxPoint y="12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;Menu tersedia?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
                     <mxGeometry x="-461.62" y="448" width="139.25" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="User menambahkan pilihan menu ke cart" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="-485.24" y="640" width="186.49" height="76" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

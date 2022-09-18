@@ -6,3 +6,6 @@
  - README.md 
  - Flowchart.drawio
  - Pseudocode.txt
+
+Dikerjakan Oleh:
+- 'Cheryl Azalia - BE3073226'

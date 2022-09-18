@@ -29,3 +29,7 @@ WHILE orderStatus equal to "Packing" DO
     WHILE orderStatus equal to "Ongoing with driver" DO
         IF orderStatus equal to "Ongoing with driver" THEN
             STORE orderStatus with "Delivered"
+
+    PRINT orderStatus
+    
+END IF 

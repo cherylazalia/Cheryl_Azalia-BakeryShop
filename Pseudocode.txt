@@ -19,3 +19,13 @@ DISPLAY "Total"
 STORE "IsPaid" with pay()
 IF "IsPaid" equal to True THEN
     STORE "IsConfirm" with True
+
+WHILE orderStatus equal to "Packing" DO
+        IF orderStatus equal to "Packing" THEN
+            STORE orderStatus with "Packed"
+
+    STORE orderStatus with "Ongoing with driver"
+
+    WHILE orderStatus equal to "Ongoing with driver" DO
+        IF orderStatus equal to "Ongoing with driver" THEN
+            STORE orderStatus with "Delivered"

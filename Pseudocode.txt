@@ -1,0 +1,35 @@
+PRINT "========== MENU BAKERY SHOP CHAZ =========="
+PRINT "1. Doughnut"
+PRINT "2. Cheesecake"
+PRINT "3. Croissant"
+
+STORE "cart" with string
+ADD "cart" with "menu"[0]
+
+CALL checkout(cart)
+
+WRITE "alamat" with string
+STORE "alamat" with "Surabaya"
+
+STORE "Jumlah" AS INTEGER WITH VALUE
+STORE "Harga" AS INTEGER WITH VALUE
+STORE "Total" AS INTEGER WITH 0 
+DISPLAY "Total"
+
+STORE "IsPaid" with pay()
+IF "IsPaid" equal to True THEN
+    STORE "IsConfirm" with True
+
+WHILE orderStatus equal to "Packing" DO
+        IF orderStatus equal to "Packing" THEN
+            STORE orderStatus with "Packed"
+
+    STORE orderStatus with "Ongoing with driver"
+
+    WHILE orderStatus equal to "Ongoing with driver" DO
+        IF orderStatus equal to "Ongoing with driver" THEN
+            STORE orderStatus with "Delivered"
+
+    PRINT orderStatus
+    
+END IF 

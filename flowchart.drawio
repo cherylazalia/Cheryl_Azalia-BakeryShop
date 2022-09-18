@@ -1,0 +1,153 @@
+<mxfile host="65bd71144e">
+    <diagram id="QZgptsSMLCKJXurCH-qp" name="Page-1">
+        <mxGraphModel dx="1319" dy="342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=16;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontColor=default;" vertex="1" connectable="0" parent="8">
+                    <mxGeometry x="-0.5468" relative="1" as="geometry">
+                        <mxPoint y="11" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;Bakery Shop CHAZ Open?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-461.62" y="126" width="139.25" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Start&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-448.5" y="27" width="113" height="66" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="User melihat daftar menu" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="-472" y="317" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="20">
+                    <mxGeometry x="-0.6109" relative="1" as="geometry">
+                        <mxPoint y="12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;Menu tersedia?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-461.62" y="448" width="139.25" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="19" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="User menambahkan pilihan menu ke cart" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="-485.24" y="640" width="186.49" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-252" y="513"/>
+                            <mxPoint x="-252" y="357"/>
+                            <mxPoint x="-283" y="356"/>
+                        </Array>
+                        <mxPoint x="-332" y="403" as="targetPoint"/>
+                        <mxPoint x="-324.5" y="513" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="23">
+                    <mxGeometry x="0.2098" y="1" relative="1" as="geometry">
+                        <mxPoint x="-35" y="102" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="641" y="190"/>
+                            <mxPoint x="641" y="676"/>
+                            <mxPoint x="641" y="1461"/>
+                        </Array>
+                        <mxPoint x="-322.37" y="190" as="sourcePoint"/>
+                        <mxPoint x="485" y="1390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;End&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="1428" width="113" height="66" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="27" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="User melakukan cherkout cart" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="-190" y="636" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="28" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="User memasukkan alamat pengiriman" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="69" y="636" width="181" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="User melakukan pembayaran" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="636" width="163" height="83" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="34" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Bakery Shop CHAZ mengkonfirmasi pesanan" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="351" y="782" width="161" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37" target="43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="44">
+                    <mxGeometry x="-0.1722" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="37" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="49">
+                    <mxGeometry x="-0.1852" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="Ada driver online?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="374.5" y="907" width="114" height="113" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="43" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Bakery Shop CHAZ menyiapkan pesanan" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="347.75" y="1086" width="167.5" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="46" target="52">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Bakery Shop CHAZ mengirimkan pesanan melalui driver&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="344" y="1192" width="175" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Menunggu ada driver online" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="134.5" y="933.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="48" target="43">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="374.5" y="1020" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="195" y="1116"/>
+                        </Array>
+                        <mxPoint x="174.75" y="1070" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;sketch=0;hachureGap=4;html=1;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=18;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Pesanan sampai ke pelanggan" style="whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontFamily=Times New Roman;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="347.25" y="1321" width="168" height="67" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
